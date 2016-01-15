@@ -1,3 +1,8 @@
+This is my attempte to merge docker-puppetmaster,MunkiServer, Crypt and Hopefully Sal:
+
+this is a clone of : https://github.com/macadmins/docker-puppetmaster
+
+
 # docker-puppetmaster
 Docker image for puppet server
 
