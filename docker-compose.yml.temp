@@ -1,6 +1,0 @@
-puppet: 
-    build: ./
-    volumes:
-      - /opt/varpuppet/lib/puppet
-    ports:
-      - "8140:8140"
